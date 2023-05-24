@@ -20,5 +20,3 @@
     <a href="https://www.youtube.com/channel/UCwx0ZmftvUEpotkKnKZiJqQ"><!--Youtube-->
     <img height="50cm" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </div>
-
-## Sou Dono Da Antiga Conta iDuug (https://github.com/iDuug)
