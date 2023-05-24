@@ -3,10 +3,11 @@
 ## Me Chamo ***Fernando Dutra*** Mas Pode Me Chamar De ***Fernando***
 # Minhas linguagens:
 
-# ***Mais Sobre Mim:***
 <div>
     <img height="150cm" src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png">
 </div>
+
+# ***Mais Sobre Mim:***
 
 👨‍💻💻 Sou Um Progamador Back-end De ***Node-js*** Que Esta Aprendendo Front-end de ***Javascript*** 💻👨‍💻
 
