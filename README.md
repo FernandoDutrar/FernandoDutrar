@@ -4,6 +4,9 @@
 # Minhas linguagens:
 
 # ***Mais Sobre Mim:***
+<div>
+    <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png">
+</div>
 
 👨‍💻💻 Sou Um Progamador Back-end De ***Node-js*** Que Esta Aprendendo Front-end de ***Javascript*** 💻👨‍💻
 
