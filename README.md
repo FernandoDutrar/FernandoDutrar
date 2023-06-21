@@ -11,7 +11,7 @@
 
 # ***Mais Sobre Mim:***
 
-👨‍💻💻 Sou Um Progamador Back-end De ***Node-js*** Que Esta Aprendendo Front-end de ***Javascript***, ***HTML*** e ***CSS*** 💻👨‍💻
+👨‍💻💻 Sou Um Desenvolvedor Front-end de ***Javascript***, ***HTML*** e ***CSS*** 💻👨‍💻
 
 🇧🇷 Eu Sou Do ***Rio De Janeiro*** Na Cidade De ***Petrópolis*** 🇧🇷
 
@@ -22,7 +22,7 @@
 <div>
     <a href="https://twitter.com/FernandoRomano_"><!--Twitter-->
     <img height="50cm" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> 
-    <a href="https://www.instagram.com/srduck__/"><!--Instagram-->
+    <a href="https://www.instagram.com/iduckk_/"><!--Instagram-->
     <img height="50cm" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     <a href="https://www.youtube.com/channel/UCwx0ZmftvUEpotkKnKZiJqQ"><!--Youtube-->
     <img height="50cm" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
