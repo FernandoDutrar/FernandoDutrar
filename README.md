@@ -1,21 +1,23 @@
-# ***Olá, Seja Bem Vindo(a) Ao Meu Perfil :)***
+<h1>Olá, Seja Bem Vindo(a) Ao Meu Perfil :) <br> Me Chamo Fernando Dutra Mas Pode Me Chamar De Fernando</h1>
 
-## Me Chamo ***Fernando Dutra*** Mas Pode Me Chamar De ***Fernando***
-# Minhas linguagens:
+<h2>Minhas linguagens:</h2>
 
 <div>
-    <img height="150cm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png">
-    <img height="150cm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
-    <img height="150cm" src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png">
+    <img height="150cm" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon-700x697.png">
+    <img height="150cm" src="https://th.bing.com/th/id/R.a96a2e420292e68da9d34e859cb2c510?rik=daZZ%2fs93F%2fIluQ&riu=http%3a%2f%2fcostanobreengenharia.com.br%2fwp-content%2fuploads%2f2017%2f05%2flinguagem-C.png&ehk=un3un7guA5N50sdgNwxQnTW9xlLRzeNlrg7IgzY829c%3d&risl=&pid=ImgRaw&r=0">
 </div>
 
 # ***Mais Sobre Mim:***
 
-👨‍💻💻 Sou Um Desenvolvedor Front-end de ***Javascript***, ***HTML*** e ***CSS*** 💻👨‍💻
+👨‍💻💻 Sou Um Estudante na area de **Segurança da Informação** 💻👨‍💻
 
 🇧🇷 Eu Sou Do ***Rio De Janeiro*** Na Cidade De ***Petrópolis*** 🇧🇷
 
 🧒 Progamo Desde os ***12 Anos*** 🧒 
+
+🌐 Eu comecei na área de TI, fazendo primeiro Front-end, e depois Back-end 🌐
+
+🐧 Usuario de Linux 🐧
 
 # ***Minhas Redes Sociais:***
 
