@@ -11,7 +11,7 @@
 
 👨‍💻💻 Sou Um Estudante na area de **Segurança da Informação** 💻👨‍💻
 
-🇧🇷 Eu Sou Do ***Rio De Janeiro*** Na Cidade De ***Petrópolis*** 🇧🇷
+🌎 Eu Sou Do ***Rio De Janeiro*** Na Cidade De ***Petrópolis*** 🌎
 
 🧒 Progamo Desde os ***12 Anos*** 🧒 
 
