@@ -1,6 +1,6 @@
 <h1>Olá, Seja Bem Vindo(a) Ao Meu Perfil :) <br> Me Chamo Fernando Dutra Mas Pode Me Chamar De Fernando</h1>
 
-<h2>Minhas linguagens:</h2>
+<h1>Minhas linguagens:</h1>
 
 <div>
     <img height="150cm" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon-700x697.png">
