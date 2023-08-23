@@ -1,6 +1,6 @@
-<h1>Olá, Seja Bem Vindo(a) Ao Meu Perfil :) <br> Me Chamo Fernando Dutra Mas Pode Me Chamar De Fernando</h1>
-
-<h1>Minhas linguagens:</h1>
+<div align="center">
+<h1>Olá, Seja Bem Vindo(a) Ao Meu Perfil :) <br> Me Chamo Fernando Dutra Mas Pode Me Chamar De Fernando <br><br> Minhas linguagens:</h1>
+</div>
 
 <div align="center">
     <img height="120cm" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon-700x697.png">
@@ -9,8 +9,7 @@
 </div>
 
 <div align="center">
-# ***Mais Sobre Mim:***
-</div>
+<h1>Mais Sobre Mim:</h1>
 
 👨‍💻💻 Sou Um Estudante na area de **Desenvolvimento/Engenharia de Software** 💻👨‍💻
 
@@ -19,10 +18,13 @@
 🧒 Progamo Desde os ***12 Anos*** 🧒 
 
 🌐 Eu comecei na área de TI, fazendo primeiro **Front-end**, e agora estou no **Back-end** 🌐
+</div>
 
-# ***Minhas Redes Sociais:***
+<div align="center">
+<h1>Minhas Redes Sociais:</h1>
+</div>
 
-<div>
+<div align="center">
     <a href="https://twitter.com/FernandoRomano_"><!--Twitter-->
     <img height="50cm" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> 
     <a href="https://www.instagram.com/iduckk_/"><!--Instagram-->
