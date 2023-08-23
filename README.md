@@ -3,9 +3,9 @@
 <h1>Minhas linguagens:</h1>
 
 <div>
-    <img height="150cm" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon-700x697.png">
-    <img height="150cm" src="[https://th.bing.com/th/id/R.a96a2e420292e68da9d34e859cb2c510?rik=daZZ%2fs93F%2fIluQ&riu=http%3a%2f%2fcostanobreengenharia.com.br%2fwp-content%2fuploads%2f2017%2f05%2flinguagem-C.png&ehk=un3un7guA5N50sdgNwxQnTW9xlLRzeNlrg7IgzY829c%3d&risl=&pid=ImgRaw&r=0](https://cdn-icons-png.flaticon.com/512/5968/5968292.png)">
-    <img height="150cm" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png">
+    <img height="120cm" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon-700x697.png">
+    <img height="120cm" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+    <img height="120cm" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png">
 </div>
 
 # ***Mais Sobre Mim:***
