@@ -2,13 +2,15 @@
 
 <h1>Minhas linguagens:</h1>
 
-<div>
+<div align="center">
     <img height="120cm" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon-700x697.png">
     <img height="120cm" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
     <img height="120cm" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png">
 </div>
 
+<div align="center">
 # ***Mais Sobre Mim:***
+</div>
 
 👨‍💻💻 Sou Um Estudante na area de **Desenvolvimento/Engenharia de Software** 💻👨‍💻
 
