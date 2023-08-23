@@ -10,15 +10,13 @@
 
 # ***Mais Sobre Mim:***
 
-👨‍💻💻 Sou Um Estudante na area de **Segurança da Informação** 💻👨‍💻
+👨‍💻💻 Sou Um Estudante na area de **Desenvolvimento/Engenharia de Software** 💻👨‍💻
 
 🌎 Eu Sou Do ***Rio De Janeiro*** Na Cidade De ***Petrópolis*** 🌎
 
 🧒 Progamo Desde os ***12 Anos*** 🧒 
 
-🌐 Eu comecei na área de TI, fazendo primeiro Front-end, e depois Back-end 🌐
-
-🐧 Usuario de Linux 🐧
+🌐 Eu comecei na área de TI, fazendo primeiro **Front-end**, e agora estou no **Back-end** 🌐
 
 # ***Minhas Redes Sociais:***
 
