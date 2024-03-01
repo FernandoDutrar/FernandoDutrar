@@ -23,7 +23,7 @@
 
 🧒 Progamo Desde os ***12 Anos*** 🧒 
 
-🌐 Eu comecei na área de TI, fazendo primeiro **Front-end**, e agora estou no **Back-end** 🌐
+🌐 Sou Desenvolvedor de Software **Back-end** 🌐
 </div>
 
 <div align="center">
