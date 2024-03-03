@@ -4,10 +4,12 @@
 
 <div align="center">
   <img height="120" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon-700x697.png">
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="120" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="120" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="120" src="https://cdn-icons-png.flaticon.com/256/226/226777.png">
 </div>
 
 <div align="center">
