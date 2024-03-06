@@ -1,42 +1,24 @@
-<div align="center">
-  <h1>Hello, Welcome to My Profile!<br>💻🦆<br><br> My Languages:</h1>
-</div>
+# Welcome to My Profile! 👋
 
-<div align="center">
-  <img height="120" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon-700x697.png">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="120" src="https://cdn-icons-png.flaticon.com/256/226/226777.png">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="120" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png">
-</div>
+Hello there! My name is Fernando Dutra. I'm a **software developer** primarily focused on **back-end development**, deeply passionate about tackling logic puzzles and crafting innovative solutions.
 
-<div align="center">
-  <h1>More About Me:</h1>
+## About Me ℹ️
 
-  👨‍💻💻 I'm a student in the **Software Development/Engineering** field 💻👨‍💻
+- 👨‍💻 I'm currently studying in the field of **Software Development/Engineering**.
+- 🌎 I'm from **Rio de Janeiro**, specifically from **Petrópolis**.
+- 🧒 I started coding at the age of **12**.
+- 🌐 My primary focus is on **back-end software development**.
 
-  🌎 I'm from ***Rio De Janeiro***, in the city of ***Petrópolis*** 🌎
+## Languages & Tools 🔧
 
-  🧒 I've been programming since I was ***12 years old*** 🧒 
+- 🐍 Python
+- ☕ Java
+- 🎲 SQL
 
-  🌐 I'm a **Back-end** software developer 🌐
-</div>
+## Get in Touch 📫
 
-<div align="center">
-  <h1>My Social Media:</h1>
-</div>
+You can find me on the following social media platforms:
 
-<div align="center">
-  <a href="https://twitter.com/PrivRomano_"><!--Twitter-->
-    <img height="50" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/iduckk_/"><!--Instagram-->
-    <img height="50" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCwx0ZmftvUEpotkKnKZiJqQ"><!--Youtube-->
-    <img height="50" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-</div>
-
+- 🐦 [Twitter](https://twitter.com/PrivRomano_)
+- 📷 [Instagram](https://www.instagram.com/iduckk_/)
+- 🎥 [YouTube](https://www.youtube.com/channel/UCwx0ZmftvUEpotkKnKZiJqQ)
