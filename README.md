@@ -1,31 +1,29 @@
 <div align="center">
-  <h1>Olá, Seja Bem-Vindo(a) Ao Meu Perfil! <br> Me Chamo Fernando Dutra, Mas Pode Me Chamar De Fernando <br><br> Minhas Linguagens:</h1>
+  <h1>Hello, Welcome to My Profile!<br>💻🦆<br><br> My Languages:</h1>
 </div>
 
 <div align="center">
   <img height="120" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon-700x697.png">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="120" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+  <img height="120" src="https://cdn-icons-png.flaticon.com/256/226/226777.png">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="120" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="120" src="https://cdn-icons-png.flaticon.com/256/226/226777.png">
 </div>
 
 <div align="center">
-  <h1>Mais Sobre Mim:</h1>
+  <h1>More About Me:</h1>
 
-  👨‍💻💻 Sou Um Estudante Na Área De **Desenvolvimento/Engenharia de Software** 💻👨‍💻
+  👨‍💻💻 I'm a student in the **Software Development/Engineering** field 💻👨‍💻
 
-  🌎 Eu Sou Do ***Rio De Janeiro***, Na Cidade De ***Petrópolis*** 🌎
+  🌎 I'm from ***Rio De Janeiro***, in the city of ***Petrópolis*** 🌎
 
-  🧒 Programo Desde Os ***12 Anos*** 🧒 
+  🧒 I've been programming since I was ***12 years old*** 🧒 
 
-  🌐 Sou Desenvolvedor De Software **Back-end** 🌐
+  🌐 I'm a **Back-end** software developer 🌐
 </div>
 
 <div align="center">
-  <h1>Minhas Redes Sociais:</h1>
+  <h1>My Social Media:</h1>
 </div>
 
 <div align="center">
@@ -41,3 +39,4 @@
     <img height="50" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </div>
+
