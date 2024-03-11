@@ -12,8 +12,8 @@ Hello there! My name is Fernando Dutra. I'm a **software developer** primarily f
 ## Languages & Tools 🔧
 
 - 🐍 Python
-- ☕ Java
-- 🎲 SQL
+- 🎮 C++
+- 💜 C-Sharp
 
 ## Get in Touch 📫
 
