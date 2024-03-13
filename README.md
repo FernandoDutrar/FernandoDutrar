@@ -7,7 +7,7 @@ Hello there! My name is Fernando Dutra. I'm a **software developer** primarily f
 - 👨‍💻 I'm currently studying in the field of **Software Development/Engineering**.
 - 🌎 I'm from **Rio de Janeiro**, specifically from **Petrópolis**.
 - 🧒 I started coding at the age of **12**.
-- 🌐 My primary focus is on **back-end software enginner**.
+- 🌐 My primary focus is on **back-end software engineer**.
 
 ## Languages & Tools 🔧
 
