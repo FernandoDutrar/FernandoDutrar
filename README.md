@@ -1,19 +1,19 @@
 # Welcome to My Profile! 👋
 
-Hello there! My name is Fernando Dutra. I'm a **software developer** primarily focused on **back-end development**, deeply passionate about tackling logic puzzles and crafting innovative solutions.
+Hello there! My name is Fernando Dutra. I'm a **software developer** primarily focused on **Full Stack development**, deeply passionate about tackling logic puzzles and crafting innovative solutions.
 
 ## About Me ℹ️
 
 - 👨‍💻 I'm currently studying in the field of **Software Development/Engineering**.
 - 🌎 I'm from **Rio de Janeiro**, specifically from **Petrópolis**.
 - 🧒 I started coding at the age of **12**.
-- 🌐 My primary focus is on **back-end software engineer**.
+- 🌐 My primary focus is on **Fullstack software engineer**.
 
 ## Languages & Tools 🔧
 
 - 🐍 Python
 - 🎮 C++
-- 💜 C-Sharp
+- 💛 JavaScript
 
 ## Get in Touch 📫
 
